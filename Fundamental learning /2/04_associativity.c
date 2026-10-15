@@ -10,6 +10,7 @@ int main(){
     //                3rd              =
     
     printf("the value is %d\n" , a*b/c + 7);
+    printf("the value is %d\n" , 3*b/2*c + 7*a);
     return 0;
 
 }
