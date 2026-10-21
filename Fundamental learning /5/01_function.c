@@ -11,7 +11,10 @@ int sum(int x, int y){
 int main(){
     int a=10;
     int b=11;
-    
+
     sum(a,b);
+
+    int c = sum(3,4);
+    printf("%d\n",c);
     return 0;
 }
