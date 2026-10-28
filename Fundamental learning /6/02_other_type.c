@@ -11,5 +11,6 @@ int main(){
     printf("The address of i is %p\n", &k);
 
     printf("the value at address j is %d\n",*(&i));
+    
     return 0;
 } 
